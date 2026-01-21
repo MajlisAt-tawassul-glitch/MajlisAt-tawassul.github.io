@@ -51,7 +51,7 @@ header {
 }
 
 .hero h1 {
-  font-family: 'Amiri', serif;
+  font-family: 'cinzel decorative';
   font-size: 42px;
   margin-bottom: 20px;
 }
@@ -136,4 +136,5 @@ footer {
     font-size: 32px;
   }
 }
+
 
